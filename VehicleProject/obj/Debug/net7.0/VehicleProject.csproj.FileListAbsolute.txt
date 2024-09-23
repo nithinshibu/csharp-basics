@@ -1,0 +1,11 @@
+D:\User Profile\Documents\Learning\Training\CSharpFundamentals\VehicleProject\bin\Debug\net7.0\VehicleProject.deps.json
+D:\User Profile\Documents\Learning\Training\CSharpFundamentals\VehicleProject\bin\Debug\net7.0\VehicleProject.dll
+D:\User Profile\Documents\Learning\Training\CSharpFundamentals\VehicleProject\bin\Debug\net7.0\VehicleProject.pdb
+D:\User Profile\Documents\Learning\Training\CSharpFundamentals\VehicleProject\obj\Debug\net7.0\VehicleProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\User Profile\Documents\Learning\Training\CSharpFundamentals\VehicleProject\obj\Debug\net7.0\VehicleProject.AssemblyInfoInputs.cache
+D:\User Profile\Documents\Learning\Training\CSharpFundamentals\VehicleProject\obj\Debug\net7.0\VehicleProject.AssemblyInfo.cs
+D:\User Profile\Documents\Learning\Training\CSharpFundamentals\VehicleProject\obj\Debug\net7.0\VehicleProject.csproj.CoreCompileInputs.cache
+D:\User Profile\Documents\Learning\Training\CSharpFundamentals\VehicleProject\obj\Debug\net7.0\VehicleProject.dll
+D:\User Profile\Documents\Learning\Training\CSharpFundamentals\VehicleProject\obj\Debug\net7.0\refint\VehicleProject.dll
+D:\User Profile\Documents\Learning\Training\CSharpFundamentals\VehicleProject\obj\Debug\net7.0\VehicleProject.pdb
+D:\User Profile\Documents\Learning\Training\CSharpFundamentals\VehicleProject\obj\Debug\net7.0\ref\VehicleProject.dll
