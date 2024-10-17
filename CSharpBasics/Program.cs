@@ -486,21 +486,36 @@ Usage: Used to define a contract that multiple, possibly unrelated, classes can 
 
 
 using CSharpBasics.Section_9;
+using CSharpBasics.Section_Async_Await;
 
 
 /*Method Overloading: The Add method is defined multiple times in the Calculator class, each with a different parameter list. This is method overloading.
 Compile-Time Polymorphism: The method to be called is determined at compile time based on the number and type of arguments passed to the method.
 Different Parameters: The Add method can handle different types and numbers of parameters, demonstrating how method overloading allows the same method name to be used for different purposes.*/
 
-Calculator calculator = new Calculator();
+//Calculator calculator = new Calculator();
 
 //Call the overloaded Add methods
-Console.WriteLine("Add two integers: " + calculator.Add(5, 10));          // Outputs: 15
-Console.WriteLine("Add three integers: " + calculator.Add(5, 10, 15));    // Outputs: 30
-Console.WriteLine("Add two doubles: " + calculator.Add(5.5, 10.5));       // Outputs: 16.0
+/*Console.WriteLine("Add two integers: " + calculator.Add(5, 10));*/          // Outputs: 15
+/*Console.WriteLine("Add three integers: " + calculator.Add(5, 10, 15)); */   // Outputs: 30
+/*Console.WriteLine("Add two doubles: " + calculator.Add(5.5, 10.5));   */    // Outputs: 16.0
 
 
 #endregion
 
 
 
+#region Async Await Concepts
+
+//Basic Synchronous Code
+
+//SynchronousExample synchronousExample = new SynchronousExample();
+//synchronousExample.MakeTea();
+
+//Asynchronous Code Example
+AsynchronousExample asynchronousExample = new AsynchronousExample();
+await asynchronousExample.MakeTeaAsync();
+
+
+
+#endregion
